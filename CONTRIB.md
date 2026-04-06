@@ -101,3 +101,8 @@ Please add your package at the end of the table:
 | circle_blast_transition | https://pub.dev/packages/circle_blast_transition | https://fluttergems.dev/animation-transition/ |
 | minilo_design_system | https://pub.dev/packages/minilo_design_system | https://fluttergems.dev/design-system/ |
 | code_forge | https://pub.dev/packages/code_forge | https://fluttergems.dev/editor-syntax-highlighter/ |
+| graph_flutter_knowledge | https://pub.dev/packages/graph_flutter_knowledge | https://fluttergems.dev/graph_flutter_knowledge/ |
+| expandable_cardview | https://pub.dev/packages/expandable_cardview | https://fluttergems.dev/expandable_cardview/ |
+
+
+
